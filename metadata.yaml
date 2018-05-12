@@ -1,0 +1,37 @@
+_repo: A-Woman-for-MayorA-Novel-of-To-day_22267
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goldbeck, Walter Dean
+    alias: Goldbeck, W. D. (Walter Dean)
+    birthdate: 1882
+    deathdate: 1925
+    gutenberg_agent_id: '25224'
+    url: http://www.gutenberg.org/2009/agents/25224
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winslow, Helen M. (Helen Maria)
+    birthdate: 1851
+    deathdate: 1938
+    gutenberg_agent_id: '3079'
+    url: http://www.gutenberg.org/2009/agents/3079
+description: ''
+gutenberg_issued: '2007-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22267'
+  lccn: 09016441
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women mayors -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Women -- Political activity -- Fiction'
+- !lcc 'PS'
+title: 'A Woman for Mayor: A Novel of To-day'
+url: http://www.gutenberg.org/ebooks/22267
